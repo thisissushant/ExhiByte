@@ -27,5 +27,5 @@ Chirpiness
 
 1. Clone the repository to your local machine:
 2. Navigate to the project directory:
-Check out the live version of the Regrip Weather Application [here](https://regrip-weather.netlify.app/).
+Check out the live version of Twubric application [here](https://exhi-byte.vercel.app/).
 
